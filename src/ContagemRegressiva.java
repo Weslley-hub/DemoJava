@@ -4,7 +4,7 @@ public class ContagemRegressiva {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Digite um número: ");
+        System.out.println("Digite um número: ");
         int numero = input.nextInt();
 
         while (numero >= 0) {
